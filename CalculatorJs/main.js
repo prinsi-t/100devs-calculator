@@ -42,19 +42,6 @@ document.querySelectorAll(".operator").forEach((operator) => {
   });
 });
 
-/* 
-del.addEventListener('click', function (event) {
-  if (event.target.innerHTML == 'DEL') {
-    str = str.slice(0, -1)
-    document.querySelector('input').value = str;
-  }
-}) */
-/* 
-clear.addEventListener('click', function (event) {
-  if (event.target.innerHTML == 'AC') {
-    str = '';
-    document.querySelector('input').value = str;
-  }
-}) */
+
 
 // blah blah blah blah bluubuu
